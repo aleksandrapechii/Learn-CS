@@ -18,6 +18,7 @@ namespace Lesson1_Exercise1_CS
                               "47", 
                               "111-11-1111",
                               "8005555535",
+
                               "À®Õﬂ Ò˙ÂÎ ®∆» ¿;)"};
             foreach (string s in input)
             {
